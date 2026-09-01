@@ -1,7 +1,7 @@
 # CMPUT 301: Lab 1 Participation Exercise
 
 ## Student Details
-- **Full Name:** `<Enter name>`
+- **Full Name:** `Selena Pang`
 - **CCID:** `<Enter ccid>`
 
 ## References and Resources
