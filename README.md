@@ -2,7 +2,7 @@
 
 ## Student Details
 - **Full Name:** `Selena Pang`
-- **CCID:** `<Enter ccid>`
+- **CCID:** `spang1`
 
 ## References and Resources
 List any resources used here, or simply put `N/A` if not applicable.
